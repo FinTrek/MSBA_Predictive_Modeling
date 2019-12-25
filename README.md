@@ -25,4 +25,4 @@ This assignment covers Bayesian belief networks, ensemble methods, and voting cl
 
 
 ## Semester Project
-I was part of a group that investigated the potentials of automated machine learning.  Check out our article and relevant code at https://towardsdatascience.com/the-death-of-data-scientists-c243ae167701
+I was part of a group that investigated the strengths and drawbacks of automated machine learning and the its potential as a tool for model selection.  Check out our article and relevant code at https://towardsdatascience.com/the-death-of-data-scientists-c243ae167701
