@@ -21,3 +21,8 @@ This assignment covers designing loss functions with rejection options, pipeline
 
 ### HW5
 This assignment covers Bayesian belief networks, ensemble methods, and voting classifiers.
+
+
+
+## Semester Project
+I was part of a group that investigated the potentials of automated machine learning.  Check out our article and relevant code at https://towardsdatascience.com/the-death-of-data-scientists-c243ae167701
