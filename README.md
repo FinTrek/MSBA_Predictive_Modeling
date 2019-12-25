@@ -1,6 +1,4 @@
 # MSBA_Predictive_Modeling
-MSBA 2019
-
 This repository contains 5 homework assignments and a link to a group project for the MSBA Advanced Predictive Modeling class.  
 
 ### HW1
